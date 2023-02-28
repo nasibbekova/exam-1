@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.box img{
+    width: 140px;
+}
+.box span{
+    text-align: center;
+    justify-content: center;
+    padding-left: 40px;
+}
+.container{
+    display: inline-flex;
+}
